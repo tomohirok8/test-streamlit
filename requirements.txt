@@ -1,0 +1,4 @@
+pandas
+pandas_datareader==0.9.0
+altair==4.1.0
+streamlit==0.83.0
